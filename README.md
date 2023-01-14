@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm Nazariah Rahman. I just learned github®™ 👋
+## 👋 Hey everyone, I'm Nazariah Rahman. I just learned github. 👋
 
 
 <details>
