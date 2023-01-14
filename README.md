@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-<!--
+# Nazariah Rahman
+
+## Nazariah Rahman
+
+### Nazariah Rahman
+
+# Please Follow Me
+
 **nazariah88/nazariah88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Belajar Github
@@ -16,10 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-# Nazariah Rahman
-
-## Nazariah Rahman
-
-### Nazariah Rahman
