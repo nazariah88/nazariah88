@@ -1,4 +1,4 @@
-## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
+## 👋 Hey everyone, I'm Nazariah Rahman. I just learned github®™ 👋
 
 
 <details>
