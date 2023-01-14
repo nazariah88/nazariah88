@@ -16,7 +16,7 @@
 
 ### 📚 Courses
 - [Programming Technique III: ASP.NET](https://github.com/drshahizan/learn-aspnet)
-<!--
+
 ### 👨‍💻 Research Colloquium
 - [Research Colloquium Series 1: Best practices' for using the cloud in research](https://github.com/drshahizan/learn-github)
 - [Learn Github](https://github.com/drshahizan/learn-github)
