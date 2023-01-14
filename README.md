@@ -7,6 +7,7 @@
 ### Nazariah Rahman
 
 # Please Follow Me
+[My GitHub](https://github.com/nazariah88)
 
 **nazariah88/nazariah88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
