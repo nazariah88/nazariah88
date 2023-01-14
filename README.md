@@ -1,4 +1,18 @@
 ## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
+
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="left">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nazariah88&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazariah88&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+  
+  ![Follower Badge](https://img.shields.io/github/followers/nazariah88)
+  ![](https://visitor-badge.glitch.me/badge?page_id=nazariah88)
+
+</details>
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
@@ -23,6 +37,8 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://mishmanners.info/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
+
+
 
 <!-- TODO add in the rest of the URLs -->
 ### I'm a gamer too, so you might find me on:
